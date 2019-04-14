@@ -18,7 +18,7 @@ song_table_create = ("""CREATE TABLE IF NOT EXISTS songs (song_id varchar, title
 """)
 #song_id	title	artist_id	year	duration
 
-artist_table_create = ("""CREATE TABLE IF NOT EXISTS artists (artist_id varchar, name varchar, location varchar, lattitude float, longitude float);
+artist_table_create = ("""CREATE TABLE IF NOT EXISTS artists (artist_id varchar, name varchar, location varchar, lattitude float, longitude float, PRIMARY KEY (artist_id));
 """)
 
 # https://www.postgresql.org/docs/9.1/functions-datetime.html
@@ -33,10 +33,9 @@ songplay_table_insert = ("""
 user_table_insert = ("""
 """)
 
-song_table_insert = ("""INSERT INTO songs (song_id, title, artist_id, year, duration) VALUES(%s, %s, %s, %s, %s);""")
+song_table_insert =  ("""INSERT INTO songs (song_id, title, artist_id, year, duration) VALUES(%s, %s, %s, %s, %s);""")
 
-artist_table_insert = ("""
-""")
+artist_table_insert = ("""INSERT INTO artists (artist_id, name, location, lattitude, longitude) VALUES(%s, %s, %s, %s, %s);""")
 
 
 time_table_insert = ("""
