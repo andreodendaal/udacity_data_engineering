@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="295df771-205f-4489-98d0-9226b983a943" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L1_Exercise_2_Creating_a_Table_with_Apache_Cassandra.ipynb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project data Modelling with Postgress/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Project data Modelling with Postgress/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project data Modelling with Postgress/etl.ipynb" afterPath="$PROJECT_DIR$/Project data Modelling with Postgress/etl.ipynb" />
-    </list>
+    <list default="true" id="295df771-205f-4489-98d0-9226b983a943" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,20 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson 3 Exercise 1 Three Queries Three Tables-ANSWER KEY.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cassandra/Lesson 3 Exercise 1 Three Queries Three Tables-ANSWER KEY.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lesson-3-demo-2-primary-key.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson-3-demo-2-primary-key.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cassandra/lesson-3-demo-2-primary-key.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lesson 3 Exercise 3 Clustering Column-ANSWER KEY.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cassandra/Lesson 3 Exercise 3 Clustering Column-ANSWER KEY.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -112,6 +107,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Project data Modelling with Postgress/sql_queries.py" />
+        <option value="$PROJECT_DIR$/Cassandra/lesson-3-demo-1-2-queries-2-tables.ipynb" />
+        <option value="$PROJECT_DIR$/Cassandra/Lesson 3 Exercise 3 Clustering Column-ANSWER KEY.ipynb" />
       </list>
     </option>
   </component>
@@ -494,10 +491,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cassandra/lesson-3-demo-1-2-queries-2-tables.ipynb">
+    <entry file="file://$PROJECT_DIR$/Cassandra/lesson-3-demo-2-primary-key.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="14" />
+          <selected id="21" />
         </state>
       </provider>
     </entry>
@@ -508,10 +505,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cassandra/lesson-3-demo-2-primary-key.ipynb">
+    <entry file="file://$PROJECT_DIR$/Cassandra/lesson-3-demo-1-2-queries-2-tables.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cassandra/Lesson 3 Exercise 3 Clustering Column-ANSWER KEY.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
