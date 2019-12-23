@@ -20,7 +20,7 @@
       <file leaf-file-name="sas_reader.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sas_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
+            <state relative-caret-position="110">
               <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
@@ -405,7 +405,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1723" height="696" extended-state="7" />
+    <frame x="1912" y="-8" width="1723" height="696" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15514131" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -530,7 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sas_reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
+        <state relative-caret-position="110">
           <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
